@@ -15,3 +15,9 @@ DiffPIR_env/
 testsets__/
 main_ddpir_sisr_test.py
 main_ddpir_sisr_x0.py
+testsets/demo_li_lower/
+testsets/demo_li_upper/
+testsets/train/
+testsets/train.zip
+/testsets/train_10/
+/testsets/li_lower/
